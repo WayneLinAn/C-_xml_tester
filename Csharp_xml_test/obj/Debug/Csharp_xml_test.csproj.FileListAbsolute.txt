@@ -1,0 +1,7 @@
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\bin\Debug\Csharp_xml_test.exe.config
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\bin\Debug\Csharp_xml_test.exe
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\bin\Debug\Csharp_xml_test.pdb
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\obj\Debug\Csharp_xml_test.csproj.AssemblyReference.cache
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\obj\Debug\Csharp_xml_test.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\obj\Debug\Csharp_xml_test.exe
+C:\Users\wayne\source\repos\Csharp_xml_test\Csharp_xml_test\obj\Debug\Csharp_xml_test.pdb
